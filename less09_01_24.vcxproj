@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="Computer.cpp" />
     <ClCompile Include="less09_01_24.cpp" />
+    <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Computer.h" />
